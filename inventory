@@ -7,5 +7,5 @@
 192.168.1.49
 
 [all:vars]
-ansible_user=syaddad
+ansible_user=srv
 ansible_ssh_private_key_file=~/.ssh/ansible
